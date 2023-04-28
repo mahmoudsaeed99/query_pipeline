@@ -11,8 +11,8 @@ from sqlalchemy import create_engine
 from snowflake.sqlalchemy import URL
 
       # engine = create_engine(URL(
-      #     user='MAHMOUDSAEED',
-      #         password='0987654321.Ms',
+      #     user='*******',
+      #         password='******',
       #         account='JVHMOHK-FG31247',
       #         warehouse = 'COMPUTE_WH',
       #         database = 'WEATHERDATA',
