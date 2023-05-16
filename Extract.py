@@ -14,7 +14,7 @@ import requests
 
 # headers = {
 # 	"content-type": "application/octet-stream",
-# 	"X-RapidAPI-Key": "28359aa2a3mshd28d1ae546098d6p17a44ajsnf1ee15c93a53",
+# 	"X-RapidAPI-Key": "###################################",
 # 	"X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com"
 # }
 
@@ -30,7 +30,7 @@ class Extract :
 
     headers = {
     	"content-type": "application/octet-stream",
-    	"X-RapidAPI-Key": "28359aa2a3mshd28d1ae546098d6p17a44ajsnf1ee15c93a53",
+    	"X-RapidAPI-Key": "#######################################################",
     	"X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com"
     }
     
